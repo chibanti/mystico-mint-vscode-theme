@@ -1,4 +1,4 @@
-# Mystico Mint theme
+# Mystico - Mint theme
 
 This is the mystico theme for [Visual Studio Code](http://code.visualstudio.com).
 
