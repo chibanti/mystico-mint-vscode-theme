@@ -1,5 +1,5 @@
 {
-  "name": "mystico",
+  "name": "mystico-mint",
   "displayName": "Mystico - mint",
   "description": "Mystico color theme for Visual Studio Code",
   "version": "0.1.0",
@@ -24,9 +24,9 @@
       }
     ]
   },
-  "homepage": "https://github.com/chibanti/mystico-vscode-theme",
+  "homepage": "https://github.com/chibanti/mystico-mint-vscode-theme",
   "bugs": {
-    "url": "https://github.com/chibanti/mystico-vscode-theme/issues",
+    "url": "https://github.com/chibanti/mystico-mint-vscode-theme/issues",
     "email": "nashuapc@gmail.com"
   },
   "repository": {
